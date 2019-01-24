@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+# Python 3.6
 import click
 import logging
 from pyspider.database.base.projectdb import ProjectDB
